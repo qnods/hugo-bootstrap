@@ -1,3 +1,3 @@
 # hugo-bootstrap
 
-The boostrap is baed bootstrap 5.3.2
+The boostrap is based on bootstrap 5.3.2
